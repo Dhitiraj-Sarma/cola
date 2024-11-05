@@ -73,7 +73,7 @@ function Navbar() {
       <div
         className={`fixed top-0 right-0 h-full w-full bg-white border-l border-gray-200 transition-transform transform duration-300 ease-in-out ${
           isOpen ? "translate-x-0" : "translate-x-full"
-        } md:hidden`}
+        } z-10 md:hidden`}
       >
         <div className="flex items-center justify-end px-4 pt-5">
           <button onClick={() => setIsOpen((prev) => !prev)}>
