@@ -1,0 +1,22 @@
+{
+  "swiper": [
+    {
+      "id": 1,
+      "url": "/brands/kinley-water-bottle.webp",
+      "title": "Hydrating at every step",
+      "desc": "Be it manufacturing or the packaging we ensure all safety standards are followed giving our people a pure, crisp, clean drinking experience."
+    },
+    {
+      "id": 2,
+      "url": "/brands/minute-maid.webp",
+      "title": "Made in India, made for India from Indian fruits",
+      "desc": "Offering beverages which are made from local produce and aptly cater to the Indian palate."
+    },
+    {
+      "id": 3,
+      "url": "/brands/low-cal-coke.webp",
+      "title": "Low and no calorie options",
+      "desc": "We are reformulating our beverages to reduce or replace added sugar, while ensuring the same great taste continues."
+    }
+  ]
+}

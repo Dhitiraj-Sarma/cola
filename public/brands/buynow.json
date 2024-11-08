@@ -1,0 +1,29 @@
+{
+  "item": [
+    {
+      "id": 1,
+      "url": "/brands/blinkit.webp",
+      "title": "Blinkit"
+    },
+    {
+      "id": 2,
+      "url": "/brands/flipkart.webp",
+      "title": "Flipkart"
+    },
+    {
+      "id": 3,
+      "url": "/brands/jiomart.webp",
+      "title": "JioMart"
+    },
+    {
+      "id": 4,
+      "url": "/brands/amazon.webp",
+      "title": "Amazon"
+    },
+    {
+      "id": 5,
+      "url": "/brands/swiggy.webp",
+      "title": "Swiggy Instamart"
+    }
+  ]
+}

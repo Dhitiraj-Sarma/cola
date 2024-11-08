@@ -1,0 +1,283 @@
+{
+  "brand": [
+    {
+      "id": "cola-cola",
+      "url": "/home/cola.svg",
+      "featured": "/brands/cola-cola.png",
+      "products": [
+        {
+          "url": [
+            "/brands/cola-cola1.webp",
+            "/brands/cola-cola2.webp",
+            "/brands/cola-cola3.webp"
+          ],
+          "title": ["Coca‑Cola®", "Coca‑Cola Zero Sugar®", "Diet Coke®"],
+          "desc1": [
+            "Nothing beats the taste of classic Coca‑Cola. Is it designed to go with everything.¹",
+            "Presenting the new Coke Zero Sugar. Same great taste of Coke with Zero Sugar.¹",
+            "The same delicious, uplifting, and refreshing taste of Coca‑Cola, without the sugar. Diet Coke has a crisp flavour and less than 1 Calorie, ideal for those who like to monitor their calorie intake.¹"
+          ],
+          "info": [
+            {
+              "heading": "It comes in following sizes :",
+              "Cans": "Cans: 180 ml, 300 ml, 330 ml",
+              "RGB": "RGB: 200 ml, 300 ml, 330 ml",
+              "PET": "PET: 250 ml, 300 ml, 400 ml, 600 ml, 750 ml, 1250 ml, 1500 ml, 1750 ml 2000 ml, 2250 ml"
+            },
+            {
+              "heading": "It comes in following sizes :",
+              "Cans": "Cans: 180ml, 300ml, 300 ml x6, 330ml, 350ml,",
+              "RGB": "",
+              "PET": "PET: 250ml, 600ml, 750ml, "
+            },
+            {
+              "heading": "",
+              "Cans": "",
+              "RGB": "",
+              "PET": ""
+            }
+          ]
+        }
+      ],
+      "title": "coca-cola",
+      "category": "Sparkling"
+    },
+    {
+      "id": "sprite",
+      "url": "/home/sprite.svg",
+      "featured": "/brands/spriteFea.png",
+      "products": [
+        {
+          "url": ["/brands/sprite.webp"],
+          "title": ["Sprite®"],
+          "desc1": [
+            "Sprite’s crisp taste with hit of lemon-lime flavour gives you that unmatched cut-through refreshment.¹"
+          ],
+          "info": [
+            {
+              "heading": "It comes in following sizes :",
+              "Cans": "Cans: 180 ml, 300 ml, 330 ml",
+              "RGB": "RGB: 200 ml, 300 ml, 330 ml",
+              "PET": "PET: 250 ml, 300 ml, 400 ml, 600 ml, 750 ml, 1250 ml, 1500 ml, 1750 ml 2000 ml, 2250 ml"
+            },
+            {},
+            {}
+          ]
+        }
+      ],
+      "title": "Sprite",
+      "category": "Sparkling"
+    },
+    {
+      "id": "ThumpsUp",
+      "url": "/home/thums.svg",
+      "featured": "/brands/thumpsFea.png",
+      "products": [
+        {
+          "url": ["/brands/thumsup.webp"],
+          "title": ["Thums Up®"],
+          "desc1": [
+            "The original way to Taste The Thunder. Made of Strong. Not for the weak.¹"
+          ],
+          "info": [
+            {
+              "heading": "It comes in following sizes :",
+              "Cans": "Cans: 180 ml, 300 ml, 330 ml",
+              "RGB": "RGB: 200 ml, 300 ml, 330 ml",
+              "PET": "PET: 250 ml, 300 ml, 400 ml, 600 ml, 750 ml, 1250 ml, 1500 ml, 1750 ml 2000 ml, 2250 ml"
+            },
+            {},
+            {}
+          ]
+        }
+      ],
+      "title": "thums",
+      "category": "Sparkling"
+    },
+    {
+      "id": "Limca",
+      "url": "/home/Limca.svg",
+      "featured": "/brands/limcaFea.png",
+      "products": [
+        {
+          "url": ["/brands/Limca.webp", "/brands/LimcaSport.webp"],
+          "title": ["Limca®", "Limca® Sportz"],
+          "desc1": [
+            "Limca’s lemony flavor provides refreshment like no other. It celebrates the ones who get tired after sweating it out and keep moving forward.¹",
+            "Enjoy the faster rehydration of glucose & electrolytes with Limca Sportz.¹"
+          ],
+          "info": [
+            {
+              "heading": "It comes in following sizes :",
+              "Cans": "Cans: 180 ml, 300 ml, 330 ml",
+              "RGB": "RGB: 200 ml, 300 ml, 330 ml",
+              "PET": "PET: 250 ml, 300 ml, 400 ml, 600 ml, 750 ml, 1250 ml, 1500 ml, 1750 ml 2000 ml, 2250 ml"
+            },
+            {},
+            {}
+          ]
+        }
+      ],
+      "title": "Limca",
+      "category": "Nutrition and Hydration"
+    },
+    {
+      "id": "Fanta",
+      "url": "/home/fanta.webp",
+      "featured": "/brands/fantaFea.png",
+      "products": [
+        {
+          "url": ["/brands/fanta.webp"],
+          "title": ["Delite-ful Taste ka Fun-tastic break "],
+          "desc1": [
+            "Add a dash of fun to your life with the orangey taste of Fanta or the appely goodness of Fanta Apple Delite."
+          ],
+          "info": [{}, {}, {}]
+        }
+      ],
+      "title": "fanta",
+      "category": "Sparkling"
+    },
+    {
+      "id": "maaza",
+      "url": "/home/maaza.svg",
+      "featured": "/brands/mazzaFea.png",
+      "products": [
+        {
+          "url": ["/brands/mazza.webp"],
+          "title": ["Unwind with Maaza® "],
+          "desc1": [
+            "Universally loved for its sweet and smooth taste, Maaza is enticing mango lovers since 1976. Engage, indulge and enjoy round the year."
+          ],
+          "info": [{}, {}, {}]
+        }
+      ],
+      "title": "maaza",
+      "category": "Juices"
+    },
+    {
+      "id": "7",
+      "url": "/home/Schweppes.webp",
+      "featured": "",
+      "products": [
+        {
+          "url": [""],
+          "title": [""],
+          "desc1": [""],
+          "info": [{}, {}, {}]
+        }
+      ],
+      "title": "Schweppes"
+    },
+    {
+      "id": "8",
+      "url": "/home/charged.webp",
+      "featured": "",
+      "products": [
+        {
+          "url": [""],
+          "title": [""],
+          "desc1": [""],
+          "info": [{}, {}, {}]
+        }
+      ],
+      "title": "charges",
+      "category": "Sparkling"
+    },
+    {
+      "id": "9",
+      "url": "/home/Kinley.svg",
+      "featured": "",
+      "products": [
+        {
+          "url": [],
+          "title": [],
+          "desc1": [],
+          "info": [{}, {}, {}]
+        }
+      ],
+      "title": "kinley",
+      "category": "Nutrition and Hydration"
+    },
+    {
+      "id": "10",
+      "url": "/home/Minute.svg",
+      "featured": "",
+      "products": [
+        {
+          "url": [],
+          "title": [],
+          "desc1": [],
+          "info": [{}, {}, {}]
+        }
+      ],
+      "title": "Minute",
+      "category": "Juices"
+    },
+    {
+      "id": "11",
+      "url": "/home/smartwater.svg",
+      "title": "smartwater",
+      "category": "Nutrition and Hydration"
+    },
+    {
+      "id": "12",
+      "url": "/home/rim-zim.svg",
+      "featured": "",
+      "products": [
+        {
+          "url": [],
+          "title": [],
+          "desc1": [],
+          "info": [{}, {}, {}]
+        }
+      ],
+      "title": "Rim Zim",
+      "category": "Sparkling"
+    },
+    {
+      "id": "13",
+      "url": "/home/honest.webp",
+      "featured": "",
+      "products": [
+        {
+          "url": [],
+          "title": [],
+          "desc1": [],
+          "info": [{}, {}, {}]
+        }
+      ],
+      "title": "honest"
+    },
+    {
+      "id": "14",
+      "url": "/home/costa-cofee.webp",
+      "featured": "",
+      "products": [
+        {
+          "url": [],
+          "title": [],
+          "desc1": [],
+          "info": [{}, {}, {}]
+        }
+      ],
+      "title": "costa cofee",
+      "category": "Tea & Coffee"
+    },
+    {
+      "id": "15",
+      "url": "/home/georgia.webp",
+      "featured": "",
+      "products": [
+        {
+          "url": [],
+          "title": [],
+          "desc1": [],
+          "info": [{}, {}, {}]
+        }
+      ],
+      "title": "georgia",
+      "category": "Tea & Coffee"
+    }
+  ]
+}

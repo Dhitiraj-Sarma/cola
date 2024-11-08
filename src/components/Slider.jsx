@@ -23,28 +23,53 @@ export default function App() {
   }, []);
 
   return (
-    <div className="w-full">
-      <Swiper
-        slidesPerView={1}
-        spaceBetween={30}
-        loop={true}
-        pagination={{
-          clickable: true,
-        }}
-        navigation={true}
-        className="mySwiper"
-      >
-        {slides.length > 0 &&
-          slides.map((slide) => (
-            <SwiperSlide key={slide.id} className="relative lg:max-h-[90vh]">
-              <img
-                src={slide.url}
-                alt={slide.description}
-                className="w-full h-full object-cover"
-              />
-            </SwiperSlide>
-          ))}
-      </Swiper>
-    </div>
+    <>
+      <div className="w-full md:block hidden">
+        <Swiper
+          slidesPerView={1}
+          spaceBetween={30}
+          loop={true}
+          pagination={{
+            clickable: true,
+          }}
+          navigation={true}
+          className="mySwiper"
+        >
+          {slides.length > 0 &&
+            slides.map((slide) => (
+              <SwiperSlide key={slide.id} className="lg:max-h-[90vh]">
+                <img
+                  src={slide.url}
+                  alt={slide.description}
+                  className="w-full h-full object-cover"
+                />
+              </SwiperSlide>
+            ))}
+        </Swiper>
+      </div>
+      <div className="w-full block md:hidden">
+        <Swiper
+          slidesPerView={1}
+          spaceBetween={30}
+          loop={true}
+          pagination={{
+            clickable: true,
+          }}
+          navigation={true}
+          className="mySwiper"
+        >
+          {slides.length > 0 &&
+            slides.map((slide) => (
+              <SwiperSlide key={slide.id} className="lg:max-h-[90vh]">
+                <img
+                  src={slide.urlm}
+                  alt={slide.description}
+                  className="w-full h-full object-cover"
+                />
+              </SwiperSlide>
+            ))}
+        </Swiper>
+      </div>
+    </>
   );
 }

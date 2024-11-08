@@ -26,18 +26,7 @@ function Navbar() {
               Brands
             </NavLink>
           </li>
-          <li>
-            <NavLink
-              to="/discover"
-              className={({ isActive }) =>
-                isActive
-                  ? "text-red-500 text-sm font-semibold border-b-2 border-red-500"
-                  : "text-gray-700 text-sm hover:text-red-500 font-semibold"
-              }
-            >
-              Discover
-            </NavLink>
-          </li>
+
           <li>
             <NavLink
               to="/impact"
@@ -99,15 +88,7 @@ function Navbar() {
               Brands
             </NavLink>
           </li>
-          <li>
-            <NavLink
-              to="/discover"
-              className="text-3xl font-bold"
-              onClick={() => setIsOpen(false)}
-            >
-              Discover
-            </NavLink>
-          </li>
+
           <li>
             <NavLink
               to="/impact"

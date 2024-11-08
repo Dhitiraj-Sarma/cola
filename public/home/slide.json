@@ -3,31 +3,37 @@
     {
       "id": 1,
       "url": "/home/slide1.png",
+      "urlm": "/home/slidem1.png",
       "description": "Image description 1"
     },
     {
       "id": 2,
       "url": "/home/slide2.png",
+      "urlm": "/home/slidem2.png",
       "description": "Image description 2"
     },
     {
       "id": 3,
       "url": "/home/slide3.png",
+      "urlm": "/home/slidem3.png",
       "description": "Image description 3"
     },
     {
       "id": 3,
       "url": "/home/slide4.png",
+      "urlm": "/home/slidem4.png",
       "description": "Image description 3"
     },
     {
       "id": 3,
       "url": "/home/slide5.png",
+      "urlm": "/home/slidem5.png",
       "description": "Image description 3"
     },
     {
       "id": 3,
       "url": "/home/slide6.png",
+      "urlm": "/home/slidem6.png",
       "description": "Image description 3"
     }
   ]
