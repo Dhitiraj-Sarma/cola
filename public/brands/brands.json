@@ -27,14 +27,7 @@
             {
               "heading": "It comes in following sizes :",
               "Cans": "Cans: 180ml, 300ml, 300 ml x6, 330ml, 350ml,",
-              "RGB": "",
               "PET": "PET: 250ml, 600ml, 750ml, "
-            },
-            {
-              "heading": "",
-              "Cans": "",
-              "RGB": "",
-              "PET": ""
             }
           ]
         }
@@ -59,9 +52,7 @@
               "Cans": "Cans: 180 ml, 300 ml, 330 ml",
               "RGB": "RGB: 200 ml, 300 ml, 330 ml",
               "PET": "PET: 250 ml, 300 ml, 400 ml, 600 ml, 750 ml, 1250 ml, 1500 ml, 1750 ml 2000 ml, 2250 ml"
-            },
-            {},
-            {}
+            }
           ]
         }
       ],
@@ -85,9 +76,7 @@
               "Cans": "Cans: 180 ml, 300 ml, 330 ml",
               "RGB": "RGB: 200 ml, 300 ml, 330 ml",
               "PET": "PET: 250 ml, 300 ml, 400 ml, 600 ml, 750 ml, 1250 ml, 1500 ml, 1750 ml 2000 ml, 2250 ml"
-            },
-            {},
-            {}
+            }
           ]
         }
       ],
@@ -112,9 +101,7 @@
               "Cans": "Cans: 180 ml, 300 ml, 330 ml",
               "RGB": "RGB: 200 ml, 300 ml, 330 ml",
               "PET": "PET: 250 ml, 300 ml, 400 ml, 600 ml, 750 ml, 1250 ml, 1500 ml, 1750 ml 2000 ml, 2250 ml"
-            },
-            {},
-            {}
+            }
           ]
         }
       ],
@@ -132,7 +119,7 @@
           "desc1": [
             "Add a dash of fun to your life with the orangey taste of Fanta or the appely goodness of Fanta Apple Delite."
           ],
-          "info": [{}, {}, {}]
+          "info": []
         }
       ],
       "title": "fanta",
@@ -149,131 +136,214 @@
           "desc1": [
             "Universally loved for its sweet and smooth taste, Maaza is enticing mango lovers since 1976. Engage, indulge and enjoy round the year."
           ],
-          "info": [{}, {}, {}]
+          "info": []
         }
       ],
       "title": "maaza",
       "category": "Juices"
     },
     {
-      "id": "7",
+      "id": "schweppes",
       "url": "/home/Schweppes.webp",
-      "featured": "",
+      "featured": "/brands/schweppesFea.png",
       "products": [
         {
-          "url": [""],
-          "title": [""],
-          "desc1": [""],
-          "info": [{}, {}, {}]
+          "url": ["/brands/schweppes.webp"],
+          "title": ["Mix It Up With Schweppes!"],
+          "desc1": [
+            "A sparkling heritage since 1783 and loved by mixologists, Schweppes adds a reinvigorated effervescent experience to your drinks!¹"
+          ],
+          "info": []
         }
       ],
       "title": "Schweppes"
     },
     {
-      "id": "8",
+      "id": "charged",
       "url": "/home/charged.webp",
-      "featured": "",
+      "featured": "/brands/chargesFea.png",
       "products": [
         {
-          "url": [""],
-          "title": [""],
-          "desc1": [""],
-          "info": [{}, {}, {}]
+          "url": ["/brands/charged.webp"],
+          "title": ["Charged by Thums Up®"],
+          "desc1": [
+            "India’s newest electrifying drink ⚡ 👊 #MindChargedBodyCharged"
+          ],
+          "info": [
+            {
+              "heading": "It comes in following sizes :",
+              "Cans": "Cans: 330 ml",
+              "RGB": "RGB: 330 ml"
+            }
+          ]
         }
       ],
       "title": "charges",
       "category": "Sparkling"
     },
     {
-      "id": "9",
+      "id": "kinly",
       "url": "/home/Kinley.svg",
-      "featured": "",
+      "featured": "/brands/kinleyFea.png",
       "products": [
         {
-          "url": [],
-          "title": [],
-          "desc1": [],
-          "info": [{}, {}, {}]
+          "url": ["/brands/kinley.webp"],
+          "title": ["Trust in Every Drop "],
+          "desc1": [
+            "Kinley packaged drinking water was introduced in India in the year 2000. The brand promises the assurance of clean and safe drinking water. Every drop of Kinley goes through a rigorous 10 step verification process."
+          ],
+          "info": []
         }
       ],
       "title": "kinley",
       "category": "Nutrition and Hydration"
     },
     {
-      "id": "10",
+      "id": "minute",
       "url": "/home/Minute.svg",
-      "featured": "",
+      "featured": "/brands/minuteFea.png",
       "products": [
         {
-          "url": [],
-          "title": [],
-          "desc1": [],
-          "info": [{}, {}, {}]
+          "url": ["/brands/minute.webp"],
+          "title": ["Delightful fruit nutrition "],
+          "desc1": [
+            "Minute Maid offers delicious juices made from real Indian fruits that nourishes you from within."
+          ],
+          "info": []
         }
       ],
       "title": "Minute",
       "category": "Juices"
     },
     {
-      "id": "11",
+      "id": "smartwater",
       "url": "/home/smartwater.svg",
+      "featured": "/brands/smartwaterFea.png",
+      "products": [
+        {
+          "url": ["/brands/smartwater.webp"],
+          "title": ["Smartwater®"],
+          "desc1": [
+            "Made through vapor distillation, water is evaporated to remove impurities, condensed and then re-mineralized with electrolytes for a crisp pure taste.¹"
+          ],
+          "info": []
+        }
+      ],
       "title": "smartwater",
       "category": "Nutrition and Hydration"
     },
     {
-      "id": "12",
+      "id": "rim-zim",
       "url": "/home/rim-zim.svg",
-      "featured": "",
+      "featured": "/brands/rim-zimFea.png",
       "products": [
         {
-          "url": [],
-          "title": [],
-          "desc1": [],
-          "info": [{}, {}, {}]
+          "url": ["/brands/rim-zim.webp"],
+          "title": ["RimZim™"],
+          "desc1": [
+            "Rimzim is a jeera flavored sparkling beverage and aims to create unique brand identity in the jeera soda space.¹"
+          ],
+          "info": [
+            {
+              "heading": "Choices:",
+              "Cans": "Cans:180 ml, 200 ml",
+              "PET": "PET: 250ml (Regular), 250(ASSP), 300ml, 400ml, 600ml, 750ml, 1.75Ltr, 2.5Ltr, 1,25Ltr, 2.25Ltr"
+            }
+          ]
         }
       ],
       "title": "Rim Zim",
       "category": "Sparkling"
     },
     {
-      "id": "13",
+      "id": "honest",
       "url": "/home/honest.webp",
-      "featured": "",
+      "featured": "/brands/honestFea.png",
       "products": [
         {
-          "url": [],
-          "title": [],
-          "desc1": [],
-          "info": [{}, {}, {}]
+          "url": ["honest.webp"],
+          "title": ["Honest"],
+          "desc1": [
+            "Honest Tea™ Is Made With The Finest Organic Green Tea Leaves From One Of India’s Most Acclaimed Tea Estates, Makaibari®. Sourced From The Foothills Of The Himalayas, This Ready to Drink Green Tea Gives You The Goodness Of Green Tea Along With Great Taste."
+          ],
+          "info": []
         }
       ],
       "title": "honest"
     },
     {
-      "id": "14",
+      "id": "costa-cofee",
       "url": "/home/costa-cofee.webp",
       "featured": "",
       "products": [
         {
-          "url": [],
-          "title": [],
-          "desc1": [],
-          "info": [{}, {}, {}]
+          "url": [
+            "/brands/cappuccino.webp",
+            "/brands/cortado.webp",
+            "/brands/espresso.webp",
+            "/brands/flatwhite.webp",
+            "/brands/latte.webp",
+            "/brands/roastery.webp",
+            "/brands/ourhistory.webp"
+          ],
+          "title": [
+            "Cappuccino",
+            "Cortado",
+            "Espresso",
+            "Flat White",
+            "Latte",
+            "The Roastery",
+            "Our History "
+          ],
+          "desc1": [
+            "Famously frothy - A special treat made out of intense Espresso, frothy milk and decadent chocolate dusting. Enjoy it hot or ice cold.",
+            "Small & Luxurious - It all starts with the purest essence of Espresso and textured milk. But before you can enjoy your Cortado, we sign it off with a little heart.",
+            "Simple & Smooth - Our famously intense Espresso softened with hot water. Drink it straight up or add a splash of milk. You’ll love it either way.",
+            "Rich & Velvety - A delicious combination of Espresso and velvety milk, signed off with a perfect florette. And the best thing: it tastes amazing hot or cold.",
+            "Mild & Milky - The perfect combination of our aromatic Espresso and creamy milk. This duo is ideal for everyone who loves their drink hot in winter and cold in summer.",
+            "From bean to cup, our state-of-the-art roastery is the heart of our business and the home of our coffee beans.",
+            "At Costa Coffee, we've always believed you need passion to create perfection. Primarily because that's what Sergio and Bruno - the Costa brothers - believed"
+          ],
+          "info": []
         }
       ],
       "title": "costa cofee",
       "category": "Tea & Coffee"
     },
     {
-      "id": "15",
+      "id": "georgio",
       "url": "/home/georgia.webp",
       "featured": "",
       "products": [
         {
-          "url": [],
-          "title": [],
-          "desc1": [],
-          "info": [{}, {}, {}]
+          "url": [
+            "/brands/Cappuccino1.webp",
+            "/brands/latte1.webp",
+            "/brands/americano.webp",
+            "/brands/frappe.webp",
+            "/brands/coldcoffee.webp",
+            "/brands/hotteas.webp",
+            "/brands/icedteas.webp"
+          ],
+          "title": [
+            "Cappuccino",
+            "Latte",
+            "Americano",
+            "Frappe",
+            "Cold Coffee",
+            "Hot Teas",
+            "Iced Teas"
+          ],
+          "desc1": [
+            "A typical cup of Cappuccino will have foamed milk, espresso and steamed milk in one-third measure each. While the milk is being foamed, the shot of espresso is brewed and the foam is scooped at the top.¹",
+            "Latte being the most popular coffee choices. A perfect combination of steamed milk and single shot of espresso, topped with froth.¹",
+            "Americano's are rich in aroma. It is Freshly extracted and uses medium-dark roasted blend of Arabica and Robusta beans.¹",
+            "Frappe's are basically just an iced cappuccino blended ice drinks with flavoured syrups and topped with whipped cream. A creamy and smooth cold brew.¹",
+            "It's a coffee lover's all-in-one. A cold blend of milk, espresso, and ice. Especially served in summers.¹",
+            "From Masala to Cardmom, our hot tea premixes will leave you asking for more.¹",
+            "A pefect twist of peach and lemon twist, bringing a range of refreshing flavoured Iced Teas.¹"
+          ],
+          "info": []
         }
       ],
       "title": "georgia",

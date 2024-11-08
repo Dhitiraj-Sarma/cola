@@ -103,10 +103,12 @@ function BuyNow() {
           </div>
         </div>
       </div>
-      <div className="w-full flex items-center justify-center my-5 py-5">
-        <div className="w-11/12 md:w-4/5 lg:w-3/5 bg-black flex items-center justify-between px-24 py-12 rounded-xl">
+      <div className="w-full flex  items-center justify-center my-5 py-5">
+        <div className="w-11/12 md:w-4/5 lg:w-3/5 bg-black flex flex-col md:flex-row items-center justify-between gap-5 px-24 py-12 rounded-xl">
           <div>
-            <h3 className="text-white text-3xl font-bold">Follow Coca‑Cola</h3>
+            <h3 className="text-white text-3xl text-nowrap font-bold">
+              Follow Coca‑Cola
+            </h3>
           </div>
           <div className="text-white flex justify-evenly items-center gap-5">
             <FaFacebookF className="text-2xl" />

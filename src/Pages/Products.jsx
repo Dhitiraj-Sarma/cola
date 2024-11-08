@@ -33,8 +33,8 @@ const Products = () => {
   return (
     <div className="min-h-screen w-full">
       <div className="flex-col flex items-center justify-center">
-        <div className="w-full flex items-center bg-white py-5 justify-center">
-          <img src={brand.url} alt={brand.title} className="w-14 h-auto" />
+        <div className="w-full flex items-center bg-white pb-4 justify-center">
+          <img src={brand.url} alt={brand.title} className="w-20 h-auto" />
         </div>
         <div className="w-11/12 md:w-4/5 lg:w-3/5 py-5">
           <div className="w-full">
