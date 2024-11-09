@@ -1,0 +1,34 @@
+{
+  "impact": [
+    {
+      "id": 1,
+      "url": "/impact/impact1.webp",
+      "title": " Value chain transformation",
+      "desc": "We invest to improve people’s lives, from our employees to all those who touch our business system, to our investors, to the broad communities we call home."
+    },
+    {
+      "id": 2,
+      "url": "/impact/impact2.webp",
+      "title": "Focusing on a world without waste",
+      "desc": "The global initiative launched in 2018 focuses on designing, collecting and partnering. Making all our packaging more sustainable and 100% recyclable globally by 2025 and use at least 50% recycled material in our packaging by 2030."
+    },
+    {
+      "id": 3,
+      "url": "/impact/impact3.webp",
+      "title": "Water stewardship",
+      "desc": "Through our strategy of ‘Reduce, Recycle and Replenish’, we exceeded our 2020 replenish goal - our water usage ratio was 1.73 liters of water per litre of beverage produced – a reduction of 32.4% since 2010. Water replenishment ratio of 159.9%."
+    },
+    {
+      "id": 4,
+      "url": "/impact/impact4.webp",
+      "title": "Fruit circular economy",
+      "desc": "Fruit Circular Economy starts with the Unnati program, which is farm-level productivity enhancement by creating a belief among farmers in using Ultra-high to high density fruit plantation coupled with modern Package of Practices (POP). This efficient use of input materials help in more than doubling the fruit produce."
+    },
+    {
+      "id": 4,
+      "url": "/impact/impact5.webp",
+      "title": "Responsible business",
+      "desc": "Make 100% of our packaging recyclable globally by 2025— and use at least 50% recycled material in our packaging by 2030."
+    }
+  ]
+}
